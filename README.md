@@ -1,4 +1,10 @@
 ## Hi there 👋
+I'm Sourav, I like to solve problems and write code.\
+Looking forward to connecting with fellow developers and build amazing things together✨.
+
+> [!NOTE]
+> I have lost access to the old account [sourav-py](https://github.com/sourav-py).\
+> The major repositories are forked here. Please feel free to cross verify the commits which are associated with the email that I was able to re-use for this account.
 
 <!--
 **bluespider-py/bluespider-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
