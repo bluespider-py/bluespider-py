@@ -1,8 +1,14 @@
-## Hi there 👋
+## Hi everyone 👋
+I am Sourav, I like to solve problems and write code. I am looking forward to connect with everyone and build amazing things together.
 
-> [!NOTE]
-> I have lost access to the old account [sourav-py](https://github.com/sourav-py).\
-> The major repositories are forked here. The commits can be cross-verified as the same signature mail is used for this account.
+#### Recent Projects
+- [fxcoffi](https://github.com/bluespider-py/fxcoffi)
+- [nextlog](https://github.com/bluespider-py/nextlog)
+
+#### Currently reading
+- [Cosmos by Carl Sagon](https://www.goodreads.com/book/show/55030.Cosmos?from_search=true&from_srp=true&qid=Wb80922X1k&rank=1)
+
+_I have lost access to the old account [sourav-py](https://github.com/sourav-py). The major repositories are forked here. Feel free to cross verify the commit messages' signature_
 
 <!--
 **bluespider-py/bluespider-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
