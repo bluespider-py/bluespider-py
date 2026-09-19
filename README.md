@@ -5,8 +5,9 @@ I am Sourav, I like to solve problems and write code. I am looking forward to co
 - [fxcoffi](https://github.com/bluespider-py/fxcoffi)
 - [nextlog](https://github.com/bluespider-py/nextlog)
 
-#### Currently reading
-- [Cosmos by Carl Sagon](https://www.goodreads.com/book/show/55030.Cosmos?from_search=true&from_srp=true&qid=Wb80922X1k&rank=1)
+#### 👓 Geek out (As if coding wasn't enough XDDD)
+- 📘[Cosmos by Carl Sagon](https://www.goodreads.com/book/show/55030.Cosmos?from_search=true&from_srp=true&qid=Wb80922X1k&rank=1)
+- 🎮[Hollow Knight](https://en.wikipedia.org/wiki/Hollow_Knight)
 
 _I have lost access to the old account [sourav-py](https://github.com/sourav-py). The major repositories are forked here. Feel free to cross verify the commit messages' signature_
 
